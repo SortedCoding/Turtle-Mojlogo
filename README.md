@@ -3,7 +3,7 @@
 This repository contains a Python script that uses the Turtle Graphics module to draw the iconic Python logo. The script creates a visually appealing representation of the Python logo, making use of shapes and colors to closely resemble the original design. Perfect for coding enthusiasts, learners, and those looking to explore Turtle Graphics in Python.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/vqROuxu65e0))
 
 # Screenshot
 
@@ -25,6 +25,6 @@ To run this code, save it to a file with a .py extension (e.g., demo3.py) and ex
 This code is licensed under the MIT License. Feel free to modify, distribute, and use it for any purpose.
 
 # SortedCoding
-We create a project each 4 days with voting on our <a href="https://youtube.com/@snakecoding_12" target="_blank">Youtube</a> channel.
+We create a project each 4 days with voting on our <a href="https://youtube.com/@SortedCoding" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
 
