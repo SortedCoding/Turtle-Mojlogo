@@ -24,7 +24,7 @@ To run this code, save it to a file with a .py extension (e.g., demo3.py) and ex
 # License
 This code is licensed under the MIT License. Feel free to modify, distribute, and use it for any purpose.
 
-# snake.coding
+# SortedCoding
 We create a project each 4 days with voting on our <a href="https://youtube.com/@snakecoding_12" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
 
